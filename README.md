@@ -83,7 +83,7 @@ npm >= 8.0.0
 1. **Clona el repositorio**
 ```bash
 git clone https://github.com/YonierGM/entera2-desafio-creativo
-cd entera2-landing
+cd entera2
 ```
 
 2. **Instala las dependencias**
