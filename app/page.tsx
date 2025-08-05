@@ -89,8 +89,8 @@ export default function Entera2Landing() {
                   <div>
                     <h3 className="font-semibold text-slate-800 mb-2">María, 19 años - Buenaventura</h3>
                     <p className="text-slate-700">
-                      "Nunca me enteré de la beca del ICETEX para estudiar enfermería. Se cerró la convocatoria y yo ni
-                      sabía que existía."
+                      &quot;Nunca me enteré de la beca del ICETEX para estudiar enfermería. Se cerró la convocatoria y yo ni
+                      sabía que existía.&quot;
                     </p>
                   </div>
                 </div>
@@ -102,8 +102,8 @@ export default function Entera2Landing() {
                   <div>
                     <h3 className="font-semibold text-slate-800 mb-2">Carlos, 22 años - Chocó</h3>
                     <p className="text-slate-700">
-                      "Hay un bootcamp de programación gratis, pero no sé cómo inscribirme. La página web no carga bien
-                      con mi internet."
+                      &quot;Hay un bootcamp de programación gratis, pero no sé cómo inscribirme. La página web no carga bien
+                      con mi internet.&quot;
                     </p>
                   </div>
                 </div>
@@ -115,8 +115,8 @@ export default function Entera2Landing() {
                   <div>
                     <h3 className="font-semibold text-slate-800 mb-2">Ana, 25 años - Amazonas</h3>
                     <p className="text-slate-700">
-                      "Quiero capacitarme en emprendimiento, pero no sé dónde buscar. Nadie me avisa de estos
-                      programas."
+                      &quot;Quiero capacitarme en emprendimiento, pero no sé dónde buscar. Nadie me avisa de estos
+                      programas.&quot;
                     </p>
                   </div>
                 </div>
@@ -231,8 +231,8 @@ export default function Entera2Landing() {
                 <div className="bg-white p-4 rounded-lg shadow-sm">
                   <p className="text-sm text-gray-600 mb-2">🎯 Para ti, María (19 años, Buenaventura)</p>
                   <p className="font-medium text-gray-800">
-                    "¡Ey! Hay una beca nueva del ICETEX para estudiar enfermería. Se cierra en 5 días. ¿Te ayudo a
-                    aplicar?"
+                    &quot;¡Ey! Hay una beca nueva del ICETEX para estudiar enfermería. Se cierra en 5 días. ¿Te ayudo a
+                    aplicar?&quot;
                   </p>
                 </div>
               </div>
@@ -244,12 +244,12 @@ export default function Entera2Landing() {
                 </div>
                 <div className="space-y-3">
                   <div className="bg-blue-100 p-3 rounded-lg">
-                    <p className="text-sm text-blue-800">"¿Cómo me inscribo al curso de programación?"</p>
+                    <p className="text-sm text-blue-800">&quot;¿Cómo me inscribo al curso de programación?&quot;</p>
                   </div>
                   <div className="bg-white p-3 rounded-lg">
                     <p className="text-sm text-gray-800">
-                      "¡Fácil! Te mando el link directo. Solo necesitas tu cédula y un correo. El curso empieza el lunes
-                      y es 100% gratis 😊"
+                      &quot;¡Fácil! Te mando el link directo. Solo necesitas tu cédula y un correo. El curso empieza el lunes
+                      y es 100% gratis 😊&quot;
                     </p>
                   </div>
                 </div>
@@ -389,7 +389,7 @@ export default function Entera2Landing() {
           </div>
 
           <div className="bg-white/20 backdrop-blur-sm rounded-3xl p-12 mb-12">
-            <h3 className="text-3xl md:text-4xl font-bold text-white mb-6">"Con Entera2, nadie se queda por fuera"</h3>
+            <h3 className="text-3xl md:text-4xl font-bold text-white mb-6">&quot;Con Entera2, nadie se queda por fuera&quot;</h3>
             <p className="text-xl text-white/90 mb-8 max-w-3xl mx-auto">
               Porque cada joven en Colombia merece conocer y acceder a las oportunidades que pueden cambiar su futuro,
               sin importar dónde haya nacido.
