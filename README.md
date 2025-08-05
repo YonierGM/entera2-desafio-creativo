@@ -1,36 +1,145 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 Entera2 - Conectando Territorios Olvidados
 
-## Getting Started
+<div align="center">
+  <h3>Tu conexión con el futuro empieza aquí 🚀</h3>
+  <p>Landing page para la app que conecta a los territorios olvidados de Colombia con oportunidades educativas, laborales y sociales.</p>
+</div>
 
-First, run the development server:
+---
+
+## 📖 Sobre el Proyecto
+
+**Entera2** es una solución innovadora diseñada para resolver la desconexión informativa que enfrentan muchos municipios y regiones de Colombia como Buenaventura, Chocó, Amazonas y otras zonas apartadas.
+
+### 🎯 El Problema
+
+Miles de jóvenes con talento y ganas de salir adelante nunca se enteran de:
+- Bootcamps y cursos gratuitos
+- Becas educativas del ICETEX
+- Convocatorias del SENA
+- Ferias laborales
+- Programas gubernamentales
+
+### 💡 La Solución
+
+Una app móvil que centraliza y personaliza información de oportunidades según:
+- 📍 Ubicación del usuario
+- 🎓 Nivel educativo
+- 💼 Intereses profesionales
+- 📱 Capacidad de conectividad
+
+---
+
+## ✨ Características Principales
+
+### 🎯 **Filtro Inteligente de Oportunidades**
+- Personalización basada en perfil del usuario
+- Relevancia por ubicación geográfica
+- Filtros por edad e intereses
+
+### 📡 **Modo Offline + SMS**
+- Funcionamiento sin conexión a internet
+- Notificaciones por mensaje de texto
+- Sincronización cuando hay conectividad
+
+### 🧠 **Asistente Virtual con IA**
+- Chatbot en español coloquial
+- Explicaciones paso a paso
+- Ayuda para aplicar a convocatorias
+
+### 📅 **Calendario Comunitario**
+- Eventos locales subidos por la comunidad
+- Brigadas de salud, charlas, cursos
+- Integración con líderes comunitarios
+
+### 🗺️ **Mapa de Recursos**
+- Ubicación de Wi-Fi gratuito
+- Bibliotecas públicas cercanas
+- CADEs y centros de formación
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- **Frontend**: Next.js 15 + React 18
+- **Styling**: Tailwind CSS + shadcn/ui
+- **Language**: TypeScript
+- **Icons**: Lucide React
+- **Deployment**: Vercel
+
+---
+
+## 🚀 Instalación y Uso
+
+### Prerrequisitos
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+node >= 18.0.0
+npm >= 8.0.0
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Instalación
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Clona el repositorio**
+```bash
+git clone https://github.com/YonierGM/entera2-desafio-creativo
+cd entera2-landing
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. **Instala las dependencias**
+```bash
+npm install
+```
 
-## Learn More
+3. **Configura shadcn/ui** (si es necesario)
+```bash
+npx shadcn@latest init
+npx shadcn@latest add button card badge
+```
 
-To learn more about Next.js, take a look at the following resources:
+4. **Ejecuta en modo desarrollo**
+```bash
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. **Abre en tu navegador**
+```
+http://localhost:3000
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Build para Producción
 
-## Deploy on Vercel
+```bash
+npm run build
+npm start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🎨 Diseño y UX
+
+### Paleta de Colores
+- **Amarillo**: `#facc15` - Representa esperanza y oportunidad
+- **Verde**: `#22c55e` - Simboliza crecimiento y naturaleza colombiana  
+- **Azul**: `#3b82f6` - Confianza y tecnología
+
+### Principios de Diseño
+- **Accesibilidad**: Cumple con estándares WCAG 2.1
+- **Responsive**: Optimizado para todos los dispositivos
+- **Performance**: Carga rápida incluso con conexión lenta
+- **Inclusivo**: Lenguaje claro y comprensible
+
+---
+
+<div align="center">
+  <h3>🇨🇴 Construyendo puentes digitales para una Colombia más conectada e inclusiva</h3>
+  <p><strong>"Con Entera2, nadie se queda por fuera"</strong></p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Hecho con ❤️ para las comunidades de Colombia</sub>
+</div>
+```
+
